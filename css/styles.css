@@ -184,7 +184,7 @@ footer p{
     color: #7DC3FF;
     padding: 35px 0;
 }
-footer p strong{
+footer p span{
     font-weight: 700;
     color: white;
     letter-spacing: 1.5px;
