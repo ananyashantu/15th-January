@@ -175,6 +175,7 @@ header{
 
 /*footer start*/
 footer{ 
+    margin-top: 60px;
     background-color: #008AFF;
 }
 footer p{
