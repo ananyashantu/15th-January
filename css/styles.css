@@ -178,14 +178,14 @@ footer{
     margin-top: 60px;
     background-color: #008AFF;
 }
-footer p{
+.f_center p{
     text-align: center;  
     font-family: sans-serif;
     font-size: 13px;
     color: #7DC3FF;
     padding: 35px 0;
 }
-footer p span{
+.f_center p span{
     font-weight: 700;
     color: white;
     letter-spacing: 1.5px;
