@@ -1,3 +1,3 @@
-# 15th-January
-Quick- image to html
+# Quick
+image to html
 https://ananyashantu.github.io/15th-January/
